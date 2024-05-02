@@ -7,6 +7,7 @@ Requires python's [qrcode package](https://pypi.org/project/qrcode/).
 	Logo_link = 'book-read-white-bg.png'
 	```
 to
+
 	```
 	Logo_link = '<logo file of your choice>'
 	```
@@ -16,6 +17,7 @@ to
 	text = 'https://greenmountschool.org'
 	```
 to
+
 	```
 	text = '<your URL of choice>'
 	```
