@@ -3,7 +3,7 @@ import qrcode
 from PIL import Image
 
 Logo_link = 'book-read-white-bg.png'
-text = 'https://greenmountschool.org'
+text = 'https://www.greenmountschool.org'
 
 # +
 logo = Image.open(Logo_link)
